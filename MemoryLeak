@@ -1,0 +1,4 @@
+while true do
+    print("GET LAGGED")
+    task.wait(0.00002)
+end
